@@ -1,3 +1,5 @@
+#Developed By Kens
+
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
@@ -85,3 +87,5 @@ for element in main(pos,loc):
 indeed_df=pd.DataFrame({"Job Title":job_titles, "Company Name":company_names, "Job Locations":job_locations, "Job Description":descriptions, "Posted":post_dates, "Today's Date":todays, "Salary":salarys, "Job Link":job_urls})
 
 indeed_df.to_excel("imdb_data.xlsx", index=False)
+
+#Subscribe to "Learn with Kens"
