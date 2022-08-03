@@ -37,9 +37,11 @@
 ## Screenshots
 
 - Giving the user input.
+
 ![](https://github.com/Kens3i/Indeed-Multipage-Job-Scrapper/blob/main/Gifs/gif1.gif?raw=true)
 
 - The output file.
+
 ![](https://github.com/Kens3i/Indeed-Multipage-Job-Scrapper/blob/main/Gifs/gif2.gif?raw=true)
 
 
