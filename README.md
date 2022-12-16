@@ -38,11 +38,11 @@
 
 - Giving the user input.
 
-![](https://github.com/Kens3i/Indeed-Multipage-Job-Scrapper/blob/main/Gifs/gif1.gif?raw=true)
+<a href="https://drive.google.com/uc?export=view&id=1JuNPE3LH2o7nFi-0-JQBSH1qbIIFH9OB"><img src="https://drive.google.com/uc?export=view&id=1JuNPE3LH2o7nFi-0-JQBSH1qbIIFH9OB" style="width: 500px; max-width: 100%; height: auto" title="Click To View Image." /></a>
 
 - The output file.
 
-![](https://github.com/Kens3i/Indeed-Multipage-Job-Scrapper/blob/main/Gifs/gif2.gif?raw=true)
+<a href="https://drive.google.com/uc?export=view&id=1fINFJD3KfXAtgplXOmIdKDBwwsn1zOLB"><img src="https://drive.google.com/uc?export=view&id=1fINFJD3KfXAtgplXOmIdKDBwwsn1zOLB" style="width: 500px; max-width: 100%; height: auto" title="Click To View Image." /></a>
 
 
 ## Challenges
